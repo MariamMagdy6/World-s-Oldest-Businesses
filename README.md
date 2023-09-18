@@ -6,7 +6,7 @@ Like many business problems, the data I explored was contained in several differ
 
 TECHNOLOGIES:
   SQL
-  Python
+ / Python
 
 Project Tasks:
   1. The oldest business in the world
